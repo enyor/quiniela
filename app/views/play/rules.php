@@ -31,7 +31,7 @@
             <p>Cta BdV <b>01020497610104983032</b></p>
             <p>Cesar Rodriguez C.I. 13762797</p>
 
-            <p>NOTA: Para residentes en el extranjero <b>se aceptan BTC</b></p>
+            <p>NOTA: El dinero del pote se respaldará en BTC con el fin de protegerlo frente a la inflación, residentes en el extranjero <b>pueden pagar en BTC</b> y asimismo recibiran sus premios en BTC</p>
         </div>
         <p class="backi"><a href="javascript:history.back();">regresar</a></p>
     </div>
