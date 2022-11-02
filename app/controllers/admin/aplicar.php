@@ -39,9 +39,9 @@ function _aplicar() {
 function calcScore($r1, $r2, $u1, $u2) {
     $points = 0;
     if ($r1 == $u1 && $r2 == $u2) { ////acierto resultado exacto
-        $points = 5;
+        $points = 4;
     } else if ((($r1 > $r2) && ($u1 > $u2)) or ( ($r1 < $r2) && ($u1 < $u2))) { ///acierto ganador
-        $points = 3;
+        $points = 1;
     } else if (($r1 == $r2) && ($u1 == $u2)) { ///acierto empate
         $points = 1;
     }
